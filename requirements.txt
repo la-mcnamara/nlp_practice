@@ -5,3 +5,5 @@ pandas==1.4.2
 numpy==1.22.3
 tensorflow==2.8.0
 transformers==4.18.0
+datasets==2.1.0             # huggingface datasets
+soundfile==0.10.3.post1     # for working with audio data (req for ASR dataset)
